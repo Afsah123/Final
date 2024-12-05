@@ -1,0 +1,65 @@
+﻿# Build results
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# Rider and IntelliJ-based IDEs
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+appsettings.*.json
+
+# Visual Studio working files
+.vs/
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Dotnet tools
+*.ds_store
+*.dotsettings.user
+
+# Node.js dependencies
+node_modules/
+
+# Libman dependencies
+wwwroot/lib/
+
+# Generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.zip
+*.tar.gz
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Coverage Reports
+coverage/
+*.coverage
+*.coveragexml
+*.testsettings
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup & restore
+!packages.config
+*.config
