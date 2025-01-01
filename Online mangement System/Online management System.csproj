@@ -52,6 +52,12 @@
     <Compile Include="Attendence.Designer.cs">
       <DependentUpon>Attendence.cs</DependentUpon>
     </Compile>
+    <Compile Include="Course registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course registration.Designer.cs">
+      <DependentUpon>Course registration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,36 @@
     </Compile>
     <Compile Include="Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel15Click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel15Click.Designer.cs">
+      <DependentUpon>Panel15Click.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel16Click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panel16Click.Designer.cs">
+      <DependentUpon>panel16Click.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel3click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panel3click.Designer.cs">
+      <DependentUpon>panel3click.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel4Click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panel4Click.Designer.cs">
+      <DependentUpon>panel4Click.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel5Click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panel5Click.Designer.cs">
+      <DependentUpon>panel5Click.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -110,6 +146,9 @@
     <EmbeddedResource Include="Attendence.resx">
       <DependentUpon>Attendence.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Course registration.resx">
+      <DependentUpon>Course registration.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
     </EmbeddedResource>
@@ -121,6 +160,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel15Click.resx">
+      <DependentUpon>Panel15Click.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panel16Click.resx">
+      <DependentUpon>panel16Click.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panel3click.resx">
+      <DependentUpon>panel3click.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panel4Click.resx">
+      <DependentUpon>panel4Click.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panel5Click.resx">
+      <DependentUpon>panel5Click.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -139,6 +193,7 @@
     <EmbeddedResource Include="Teacher.resx">
       <DependentUpon>Teacher.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include=".gitignore" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -156,6 +211,8 @@
     <None Include="Resources\images.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\360_F_481134373_0W4kg2yKeBRHNEklk4F9UXtGHdub3tYk.jpg" />
+    <None Include="Resources\picture-profile-icon-male-icon-human-or-people-sign-and-symbol-vector.jpg" />
     <None Include="Resources\download.png" />
     <None Include="Resources\download.jpg" />
     <None Include="Resources\images 193.jpg" />

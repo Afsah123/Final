@@ -63,6 +63,16 @@ namespace Online_mangement_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _360_F_481134373_0W4kg2yKeBRHNEklk4F9UXtGHdub3tYk {
+            get {
+                object obj = ResourceManager.GetObject("360_F_481134373_0W4kg2yKeBRHNEklk4F9UXtGHdub3tYk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap a_student_filling_out_a_form_for_college_registration {
             get {
                 object obj = ResourceManager.GetObject("a student filling out a form for college registration", resourceCulture);
@@ -136,6 +146,16 @@ namespace Online_mangement_System.Properties {
         internal static System.Drawing.Bitmap images3 {
             get {
                 object obj = ResourceManager.GetObject("images3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap picture_profile_icon_male_icon_human_or_people_sign_and_symbol_vector {
+            get {
+                object obj = ResourceManager.GetObject("picture-profile-icon-male-icon-human-or-people-sign-and-symbol-vector", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

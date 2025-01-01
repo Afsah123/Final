@@ -59,5 +59,11 @@ namespace Online_management_System
             Dashboard dashboard = new Dashboard();  
                 dashboard.Show();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Course_registration course_Registration = new Course_registration();    
+                        course_Registration.Show();
+        }
     }
 }
